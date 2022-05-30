@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neoT1NS
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning Cairo Starknet
-- 💞️ I’m looking to collaborate on Web3 projects
+- 💞️ I’m looking to collaborate on Web3 based gaming projects
 - 📫 How to reach me twitter: @neotins_
 
 <!---
